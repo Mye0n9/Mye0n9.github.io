@@ -18,3 +18,32 @@ social: true # includes social icons at the bottom of the page
 Welcome! This is MyeongSeop Kim's personal webpage.
 
 I’m a junior in SKKU and major in Applied Artificial Intelligence and Software. I'm looking forward to do in-depth research in ML and AI area. My goal is to put my full effort to learn new area and topics, so that I can dedicate to various researches. My current interests are __ML, NLP, LLM, and RAG.__ 
+
+## __Skills__
+
+💡 Analytical mind 
+
+💡 Communication skills
+
+💡 Problem-solving aptitude
+
+## __Technologies__
+
+⚙️ Python and C
+
+⚙️ Data Visualization Libraries
+
+⚙️ Git
+
+## __Languages__
+
+Fluent
+
+🇬🇧 English
+
+🇰🇷 Korean
+
+Intermediate
+
+🇨🇳 Chinese
+
